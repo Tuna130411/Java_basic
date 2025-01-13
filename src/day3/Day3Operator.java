@@ -54,5 +54,6 @@ public class Day3Operator {
 
         num %= 3; // num = num % 3
         System.out.println("num %= 3 -> " + num);
+
     }
 }

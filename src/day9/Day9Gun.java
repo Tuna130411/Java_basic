@@ -1,6 +1,6 @@
 package day9;
 
-public class Gun {
+public class Day9Gun {
 
     public String name;
     public String type;

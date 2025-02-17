@@ -1,9 +1,9 @@
 package day9;
 
-public class Dog {
+public class Day9Dog {
 
-    public String name;
-    public int age;
+        public String name;
+        public int age;
 
     public void bark(){
         System.out.println("멍멍");

@@ -2,7 +2,7 @@ package day9;
 
 public class Day9Dog {
 
-        public String name;
+        protected String name;
         public int age;
 
     public void bark(){

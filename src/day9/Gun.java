@@ -1,5 +1,8 @@
 package day9;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Gun {
 
     public String name;
@@ -13,4 +16,5 @@ public class Gun {
         System.out.println("사거리 : " + range + "m");
         System.out.println("무게 : " + weight + "kg\n");
     }
+
 }
